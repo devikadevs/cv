@@ -55,7 +55,7 @@
 </dl>
 
 ```
-Declaration.
+Declaration
 ```
 
 ```
