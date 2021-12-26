@@ -8,15 +8,15 @@
 
 ### Consultant
 
-> Support the HPE GreenLake Project.
+Support the HPE GreenLake Project.
 
 ### Support Specialist
 
-> Create and Present monthly/quarterly reports to customer
+Create and Present monthly/quarterly reports to customer
 
 ### Process Associate
 
-> Manage process, assist L2 enginners.
+Manage process, assist L2 enginners.
 
 # Certifications
 
