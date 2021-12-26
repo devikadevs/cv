@@ -1,7 +1,5 @@
-
 # Curriculum vitae 
-
-
+---
 ## Work Experience
 
 ### Consultant
