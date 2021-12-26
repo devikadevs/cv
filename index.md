@@ -1,33 +1,33 @@
----
-# Work Experience in Brief
----
+
+#Work Experience in Brief
 
 
-### Consultant
+
+## Consultant
 
 > Support the HPE GreenLake Project.
 
-### Support Specialist
+## Support Specialist
 
 > Create and Present monthly/quarterly reports to customer
 
-### Process Associate
+## Process Associate
 
 > Manage process, assist L2 enginners.
 
-# Certifications
+## Certifications
 
 *   Project Management, PMP
 *   ITIL
 *   SQL
 
-# Projects Handled
+## Projects Handled
 
 1.  Automation
 2.  Phonix tool development
 3.  Phoenic tool production
 
-# Qualification
+## Qualification
 
 | Education    | University        | Year |
 |:-------------|:------------------|:------|
@@ -41,7 +41,7 @@
 
 
 
-# Personal Details
+## Personal Details
 
 <dl>
 <dt>Name</dt>
