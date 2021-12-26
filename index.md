@@ -16,19 +16,19 @@ Create and Present monthly/quarterly reports to customer
 
 Manage process, assist L2 enginners.
 
-# Certifications
+## Certifications
 
 *   Project Management, PMP
 *   ITIL
 *   SQL
 
-# Projects Handled
+## Projects Handled
 
 1.  Automation
 2.  Phonix tool development
 3.  Phoenic tool production
 
-# Qualification
+## Qualification
 
 | Education    | University        | Year |
 |:-------------|:------------------|:------|
@@ -36,13 +36,7 @@ Manage process, assist L2 enginners.
 | 12th         | K.PUC             | 1996  |
 | 10th         | Bethany           | 1998  |
 
-
-
-* * *
-
-
-
-# Personal Details
+## Personal Details
 
 <dl>
 <dt>Name</dt>
