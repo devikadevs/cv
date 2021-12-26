@@ -1,5 +1,5 @@
 
-# <p align="center"> Curriculum vitae </p>
+# Curriculum vitae 
 
 
 ## Work Experience
