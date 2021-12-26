@@ -1,6 +1,6 @@
----
-# Curriculum vitae
----
+
+# <p align="center"> Curriculum vitae </p>
+
 
 ## Work Experience
 
